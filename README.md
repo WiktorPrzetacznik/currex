@@ -14,7 +14,7 @@ In order to build the application, follow steps below:
  4. Activate your api-key
  5. Replace the placeholder api-key in currex\src\converter\external_api.rs with your own key
  6. Using command line (or IDE) trigger project building
-  `cargo build --release` or   `cargo build`
+  `cargo build --release` or   `cargo build` if you want to skip optimizations
 
 ## Run
 In order to run the application, execute .exe file you received in building process passing following arguments:
