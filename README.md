@@ -1,6 +1,12 @@
 # Currex
 Simple application that converts amounts between different currencies using  
 real-time exchange rate data fetched from ExchangeRate-API. 
+
+## Features
+- Currency conversion using real-time data
+- Listing all available currencies with their exchange rate for chosen currency
+- Caching system 
+
 ## Build
 ### Prerequisites
 - Rust 1.76 along with recent toolchain (March 13th 2024)
