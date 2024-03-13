@@ -24,7 +24,7 @@ In order to build the application, follow steps below:
   `cargo build --release` or   `cargo build` if you want to skip optimizations
 
 ## Run
-In order to run the application, execute .exe file you received in building process passing following arguments:
+In order to run the application, execute currex.exe file you received in building process (/target/release or /debug directory) passing following arguments:
 
 `-b, --base-code <BASE_CODE>` | currency code you want to convert from
 
