@@ -2,7 +2,7 @@
 Simple application that converts amounts between different currencies using  
 real-time exchange rate data fetched from ExchangeRate-API. 
 
-## Features
+### Features
 - Currency conversion using real-time data
 - Listing all available currencies with their exchange rate for chosen currency
 - Caching system 
