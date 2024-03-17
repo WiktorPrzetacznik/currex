@@ -5,7 +5,7 @@ use serde::Deserialize;
 
 use crate::converter;
 
-const API_KEY: &str = "28b0fa5a96e4d39149454a53";
+const API_KEY: &str = "3d5aee611eaa045984558a75";
 const BASE_URL: &str = "https://v6.exchangerate-api.com/v6/";
 
 pub(super) fn get_pair(base: &String, target: &String) -> converter::Result<Decimal> {
